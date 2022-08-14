@@ -4,6 +4,9 @@ My research skills cover how we can personalize analysis to better understand be
 
 My work has been funded by research foundations stemming from executive leadership at Microsoft & Google. I am _very_ passionate about making real-world impact with research informing decision-making and strategy.
 
+<img src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo.png" width="20">
+
+
 ## My Training
 ![Harvard](https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo.png | width=20px)
 ### Harvard University
