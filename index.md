@@ -12,7 +12,7 @@ My work has been funded by research foundations stemming from executive leadersh
 **Postdoctoral Scholar** | 2022 | Cognition ~ _Nominated for a Schmidt Science Fellowship, funded by The Schmidt Family Foundation_
 
 <img src="https://haslingdenhigh.com/wp-content/uploads/2020/04/haslingden-cambridge.jpg" width="180"> 
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFq5cSEMZcE4Q/company-logo_200_200/0/1642165075024?e=1668643200&v=beta&t=rxUuLODaw-9aLXDQPtTV23T7WcFdz-lXcXdqCLY997M" width="200"
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFq5cSEMZcE4Q/company-logo_200_200/0/1642165075024?e=1668643200&v=beta&t=rxUuLODaw-9aLXDQPtTV23T7WcFdz-lXcXdqCLY997M" width="200">
 
 ### University of Cambridge
 **PhD** | 2018 - 2022| Cognitive Psychology ~ _Gates Scholar, funded by the Bill & Melinda Gates Foundation_
