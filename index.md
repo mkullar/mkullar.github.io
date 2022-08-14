@@ -11,7 +11,7 @@ My work has been funded by research foundations stemming from executive leadersh
 ### Harvard University
 **Postdoctoral Scholar** | 2022 | Cognition ~ _Nominated for a Schmidt Science Fellowship, funded by The Schmidt Family Foundation_
 
-<img src="https://logos-download.com/wp-content/uploads/2016/09/University_of_Cambridge_crest_logo.png" width="150">
+<img src="https://c0.klipartz.com/pngpicture/691/265/gratis-png-universidad-de-leeds-cambridge-universidad-de-prensa-escudo-de-armas-de-la-universidad-de-cambridge-estudiante.png" width="150">
 
 ### University of Cambridge
 **PhD** | 2018 - 2022| Cognitive Psychology ~ _Gates Scholar, funded by the Bill & Melinda Gates Foundation_
