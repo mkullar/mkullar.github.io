@@ -6,11 +6,14 @@ My work has been funded by research foundations stemming from executive leadersh
 
 ## My Training
 <img src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo.png" width="250">
+
 ### Harvard University
 **Postdoctoral Scholar** | 2022 | Cognition ~ _Nominated for a Schmidt Science Fellowship, funded by The Schmidt Family Foundation_
 <img src="https://logos-download.com/wp-content/uploads/2016/09/University_of_Cambridge_crest_logo.png" width="150">
+
 ### University of Cambridge
 **PhD** | 2018 - 2022| Cognitive Psychology ~ _Gates Scholar, funded by the Bill & Melinda Gates Foundation_
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png" width=200">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png" width=200>
+
 ### University of California, San Diego
 **B.Sc.** | 2012 - 2015 | Cognitive Psychology ~ _Cum Laude_
